@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a British data and software guy currently living in Whistler, BC.
+I work for the epidemiology group at Janssen Pharmacuiticals writing open source software that helps us better understand diseases using observational health data.
+Previously, I worked in systems and synthetic biology at the University of Nottingham where I completed my PhD and a 4 year post doc.
+We designed microbes to produce chemicals like biofeuls or flavours.
+Naturally, any opinions posted here are my own.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I like to ski, run, bike and many other outdoor things.
